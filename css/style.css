@@ -1,0 +1,93 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+	height: 3800px;
+	background-color: lightblue;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: sans-serif;
+}
+a:hover{
+	text-decoration: none;
+}
+.Registerform{
+	width: 600px;
+	margin: 50px auto;
+	padding: 80px;
+	color: darkblue;
+	background-color: moccasin;
+}
+.Registerform h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	line-height: 40px;
+	margin-top: 5px;
+	
+}
+.formgroup{
+	width: 100%;
+}
+.formgroup label{
+	font-size: 14px;
+	font-weight: 600;
+	display: block;
+}
+.formcontrol{
+	width: 100%;
+	font-size: 14px;
+	font-weight: 600;
+	padding: 10px;
+}
+.Avater{
+	text-align: center;
+	
+}
+.Avater img{
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+}
+.btn-primary{
+	width: 100px;
+	margin-top: 15px;
+	padding: 10px;
+	color: green;
+	background-color: black;
+}
+.btn-primary:hover{
+	color: black;
+	background-color: white;
+	cursor: pointer;
+}
+.psw{
+	float: right;
+	margin-top: 20px;
+}
+.Signinlink{
+	margin-top: 15px;
+	color: red;
+}
+.Checkbox{
+	margin-top: 15px;
+	color: rosybrown;
+}
+.country{
+	padding: 10px;
+	margin-top: 15px;
+	color: darkblue;
+}
+.Gender{
+    padding: 10px;
+	margin-top: 15px;
+	color: darkblue;	
+}
+
+
+
